@@ -1,4 +1,4 @@
-# DataPack Templates Collection
+# DataPack Recipes Templates Collection
 
 ## Mod List
 
