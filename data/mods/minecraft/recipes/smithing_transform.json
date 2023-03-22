@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item | tag": ""
+  },
+  "addition": {
+    "item | tag": ""
+  },
+  "base": {
+    "item | tag": ""
+  },
+  "result": {
+    "item": "",
+    "count": 1
+  },
+  "show_notification": true
+}

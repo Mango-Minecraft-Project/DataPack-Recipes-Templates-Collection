@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "ingredient": {
+    "item | tag": ""
+  },
+  "result": {
+    "item": "",
+    "count": 1
+  },
+  "count": 1,
+  "show_notification": true,
+  "pattern": [],
+  "key": {
+    "*": {
+      "item | tag": ""
+    }
+  }
+}

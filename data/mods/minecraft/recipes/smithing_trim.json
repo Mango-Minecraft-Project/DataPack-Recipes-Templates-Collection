@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_trim",
+  "template": {
+    "item | tag": ""
+  },
+  "addition": {
+    "item | tag": ""
+  },
+  "base": {
+    "item | tag": ""
+  },
+  "show_notification": true
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item | tag": ""
+  },
+  "addition": {
+    "item | tag": ""
+  },
+  "result": "",
+  "show_notification": true
+}

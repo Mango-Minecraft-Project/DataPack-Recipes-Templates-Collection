@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item | tag": ""
+  },
+  "result": "",
+  "count": 1,
+  "show_notification": true,
+  "experience": 1,
+  "cookingtime": 100
+}
