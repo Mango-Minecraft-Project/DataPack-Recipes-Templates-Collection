@@ -1,0 +1,16 @@
+{
+  "type": "mechanical_crafting",
+  "pattern": [
+    ""
+  ],
+  "key": {
+    "*": {
+      "item | tag": ""
+    }
+  },
+  "result": {
+    "item": "",
+    "count": 1
+  },
+  "acceptMirrored": false
+}

@@ -1,0 +1,18 @@
+{
+  "type": "mixing",
+  "ingredients": [
+    {
+      "item | tag | fluid | fluidTag": "",
+      "count | amount": 1,
+      "return_chance": 1
+    }
+  ],
+  "results": [
+    {
+      "item | fluid": "",
+      "count": 1,
+      "chance": 1
+    }
+  ],
+  "heatRequirement": "superheated | heated"
+}

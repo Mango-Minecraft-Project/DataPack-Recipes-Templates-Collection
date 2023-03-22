@@ -1,0 +1,17 @@
+{
+  "type": "milling",
+  "ingredients": [
+    {
+      "item | tag | fluid | fluidTag": "",
+      "count | amount": 1
+    }
+  ],
+  "results": [
+    {
+      "item | fluid": "",
+      "count | amount": 1,
+      "chance": 1
+    }
+  ],
+  "processingTime": 150
+}
