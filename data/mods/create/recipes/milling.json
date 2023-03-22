@@ -1,5 +1,5 @@
 {
-  "type": "milling",
+  "type": "create:milling",
   "ingredients": [
     {
       "item | tag | fluid | fluidTag": "",

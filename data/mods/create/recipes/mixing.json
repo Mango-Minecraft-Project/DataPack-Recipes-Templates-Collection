@@ -1,5 +1,5 @@
 {
-  "type": "mixing",
+  "type": "create:mixing",
   "ingredients": [
     {
       "item | tag | fluid | fluidTag": "",

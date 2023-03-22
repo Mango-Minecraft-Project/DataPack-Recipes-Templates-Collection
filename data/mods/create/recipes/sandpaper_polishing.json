@@ -1,5 +1,5 @@
 {
-  "type": "sandpaper_polishing",
+  "type": "create:sandpaper_polishing",
   "ingredients": [
     {
       "item | tag | fluid | fluidTag": "",

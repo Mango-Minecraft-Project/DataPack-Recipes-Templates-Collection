@@ -1,5 +1,5 @@
 {
-  "type": "splashing",
+  "type": "create:splashing",
   "ingredients": [
     {
       "item | tag | fluid | fluidTag": "",

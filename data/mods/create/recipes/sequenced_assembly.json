@@ -1,5 +1,5 @@
 {
-  "type": "sequenced_assembly",
+  "type": "create:sequenced_assembly",
   "ingredient": {
     "item | tag": ""
   },

@@ -1,5 +1,5 @@
 {
-  "type": "item_application",
+  "type": "create:item_application",
   "ingredients": [
     {
       "item | tag | fluid | fluidTag": "",

@@ -1,5 +1,5 @@
 {
-  "type": "emptying",
+  "type": "create:emptying",
   "ingredients": [
     {
       "item | tag | fluid | fluidTag": "",

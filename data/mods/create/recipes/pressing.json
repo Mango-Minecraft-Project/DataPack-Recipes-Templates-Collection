@@ -1,5 +1,5 @@
 {
-  "type": "pressing",
+  "type": "create:pressing",
   "ingredients": [
     {
       "item | tag | fluid | fluidTag": "",
