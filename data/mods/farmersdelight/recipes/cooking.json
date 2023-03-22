@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item | tag": ""
+    }
+  ],
+  "recipe_book_tab": "",
+  "result": {
+    "item": ""
+  },
+  "cookingtime": 200,
+  "experience": 1.0
+}
